@@ -1,7 +1,7 @@
 export const platformDataRows = [
   {
     id: 1,
-    company: "Twitter Inc 3",
+    company: "Twitter Inc 4",
     ticker: "TWTR",
     stockPrice: "22.76 USD",
     timeElapsed: "5 sec ago"
